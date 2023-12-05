@@ -14,7 +14,7 @@
     Build and run the Docker containers using Docker Compose:
 
     ```bash
-    docker-compose up --build
+    docker-compose up 
     ```
 
     This command will build the Docker image and start the container.

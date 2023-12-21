@@ -45,14 +45,14 @@ export default function Home() {
           </nav>
           <div className="text-center p-10 py-10">
             <h2 className="text-5xl py-2 text-teal-600 font-medium dark:text-teal-400 md:text-6xl">
-              Othmen belgacem
+              HAMDI MAAOUI
             </h2>
             <h3 className="text-2xl py-2 dark:text-white md:text-3xl">
-              Data Quality | Student 
+              Data Quality |  IT MANGER
             </h3>
          
            <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
-                 <a href="https://www.linkedin.com/in/othmen-belgacem/" target="_blank" rel="noopener noreferrer">
+                 <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
                    <AiFillLinkedin />
                  </a>
             </div>
@@ -66,22 +66,20 @@ export default function Home() {
         <section>
           <div>
           <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-            I am a 25-year-old, motivated, and dynamic professional with
+            I am a 30-year-old, motivated, and dynamic professional with
              a proactive approach to acquiring new skills. I thrive under pressure, adapting to new situations and challenges. 
             Eager to join an innovative and dynamic team where I can leverage my skills and continue to grow.
             </p>
             <h3 className="text-3xl py-1 dark:text-white ">Work Experience:</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-            <h2>December 2021 - Present: Data Quality Technician</h2>
-  <p><em>Company:</em> Sartorius Stedim Bioprocess</p>
+            <h2> February 2023 - Present: IT MANGER </h2>
+  <p><em>Company:</em> hotel houda</p>
 
-  <h2>February 2020 - June 2020: End-of-Study Internship</h2>
-  <p><em>Project:</em> Implementing a Network Infrastructure Using Windows Server 2016</p>
-  <p><em>Company:</em> Computer Center of the Ministry of Finance</p>
+  <h2>June 2018 - June 2022: administrator system </h2>
+  <p><em>Company:</em> group ukn </p>
 
-  <h2>July 2019 - August 2019: End-of-Year Internship</h2>
-  <p><em>Project:</em> Structure of a subscriber line network</p>
-  <p><em>Company:</em> Tunisie Telecom</p>
+  <h2>July 2017 - July 2018: IT TECNICAL</h2>
+  <p><em>Company:</em> UHD CARRFOUR</p>
             </p>
               <h3 className="text-3xl py-1 dark:text-white ">Education:</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">

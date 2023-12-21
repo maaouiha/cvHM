@@ -5,8 +5,8 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/othmenbelgacem/othmen_portfolio.git
-    cd othmen_portfolio
+   
+    cd cv_portfolio
     ```
 
 2. Building and Running with Docker Compose:
